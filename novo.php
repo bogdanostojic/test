@@ -1,1 +1,3 @@
-Novo
+<?php
+echo="Novo";
+?>
